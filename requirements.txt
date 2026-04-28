@@ -1,0 +1,7 @@
+flask
+flask-cors
+razorpay
+streamlit
+python-dotenv
+SQLAlchemy
+psycopg2-binary
